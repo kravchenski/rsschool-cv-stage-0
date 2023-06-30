@@ -7,12 +7,13 @@
 
 ***
 ### About myself:
-My name is `Max`. I am `16` years old. I am from the city of Grodno. My goal is to become a programmer👨‍💻 and work in the IT company `EPAM`. I study at `Gymnasium №2`, with a focus on English. My teacher and my classmates and I win various competitions in both the English and IT fields. I am very passionate about `web development, application development, game development, and also design.`
+My name is `Max`. I am `16` years old. I am from the city of `Grodno`. My goal is to become a programmer👨‍💻 and work in the `IT company🏢 EPAM`. I study at `Gymnasium №2`, with a focus on the English language. My teacher and my classmates and I win various competitions in both the English and IT fields. 
+I am very passionate about web development, create applications,game development, and also design. 
 
-__I believe that all my endeavors will come true and I will achieve success🎉 and great heights 🎂 in the world of IT.💻😁__
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+__I believe that all my endeavors will come true and I will achieve success🎉 and great heights🎂 in the world of IT.💻😁__
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 > __`Success is when you fall nine times but get up ten.`__
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ `U. Churchil`
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ __`U. Churchill`__
 ### Skills:
  * _HTML, CSS_
  * _JavaScript Basics , Python_
@@ -24,9 +25,8 @@ __I believe that all my endeavors will come true and I will achieve success🎉 
 
 
 ### Code Example:
-    function multiply(a, b) {
-    return a * b
-    }
+    function multiply(a, b){
+    return a * b  }
 
 ***
 ### Courses:
