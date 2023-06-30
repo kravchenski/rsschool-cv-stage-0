@@ -35,7 +35,9 @@
 ### Meetings:
 * __Amazon Web Services User Group 3city Meetup__
 ![__AWS meeting__](images_md/aws_meeting.png)
+
 ***
+
 ### Projects(Python):
 #### Telegram Bots
 * [_Levelizer_](https://t.me/LevelizerBot) __(English Bot(❗️First Place in the IT-Master 2023 Contest❗️))__
