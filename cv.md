@@ -12,8 +12,10 @@ I am very passionate about web development, create applications,game development
 
 __I believe that all my endeavors will come true and I will achieve success🎉 and great heights🎂 in the world of IT.💻😁__
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-> __`Success is when you fall nine times but get up ten.`__
+>__`Success is when you fall nine times but get up ten.`__
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ __`U. Churchill`__
+
+***
 ### Skills:
  * _HTML, CSS_
  * _JavaScript Basics , Python_
