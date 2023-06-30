@@ -4,7 +4,7 @@
 ***
 ### Contacts:
 
-[!['Telegram'](images_md/telegram_logo.png)]('https://t.me/kravchenski')[!['Instagram'](images_md/instagram_logo.png)]('https://www.instagram.com/maxkravchenski/') [!['Discord'](images_md/discord_logo.png)]('https://discordapp.com/users/893778320410419280')[!['Gmail'](images_md/gmail_logo.png)]('mailto:krasavamaks64@gmail.com')[!['Phone'](images_md/phone_logo.png)]('tel:+375295045955')
+[!['Telegram'](images_md/telegram_logo.png)](https://t.me/kravchenski)[!['Instagram'](images_md/instagram_logo.png)](https://www.instagram.com/maxkravchenski/) [!['Discord'](images_md/discord_logo.png)](https://discordapp.com/users/893778320410419280)[!['Gmail'](images_md/gmail_logo.png)](mailto:krasavamaks64@gmail.com)[!['Phone'](images_md/phone_logo.png)](tel:+375295045955)
 
 ***
 ### About myself:
@@ -33,8 +33,8 @@
 ***
 ### Projects(Python):
 #### Telegram Bots
-* [_Levelizer_]('https://t.me/LevelizerBot') __(English Bot(❗️First Place in the IT-Master 2023 Contest❗️))__
-* [_KravchenskiBot_]('https://t.me/KravchenskiBot') (__My personal bot with multiple projects in it.__)
+* [_Levelizer_](https://t.me/LevelizerBot) __(English Bot(❗️First Place in the IT-Master 2023 Contest❗️))__
+* [_KravchenskiBot_](https://t.me/KravchenskiBot) (__My personal bot with multiple projects in it.__)
 
 ***
 ### Languages:
