@@ -1,4 +1,3 @@
-
 # Maxim Krauchyk
 ## Junior Frontend/Python Developer
 ***
@@ -30,6 +29,12 @@
 * __Java Epam Kids (completed)__
 ![java_certificate](images_md/java_certificate.png)
 * __Rolling Scopes JavaScript Stage#0 (in progress)__
+
+
+***
+### Meetings:
+* __Amazon Web Services User Group 3city Meetup__
+![__AWS meeting__](images_md/aws_meeting.png)
 ***
 ### Projects(Python):
 #### Telegram Bots
@@ -38,6 +43,6 @@
 
 ***
 ### Languages:
- * English - Intermediate
- * Russian, Belarusian - Native
- * Polish - Intermediate
+* English - Intermediate
+* Russian, Belarusian - Native
+* Polish - Intermediate
