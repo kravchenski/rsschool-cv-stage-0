@@ -19,7 +19,7 @@ __In terms of technical skills__, I have a solid foundation in `HTML`, `CSS`,`Ja
 Last year I started using `ChatGPT` and finding out the latest news📰 about `neural networks`. It helps me to find the necessary information when I create projects very quickly.
 
 __With a strong drive for self-improvement and passion for programming🖥️🖱️ and  neural networks🤖, I am excited to embark on this journey🚢 to achieve my goals🎯 in the IT industry💻.__
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+
 ***
 ### Skills:
  * _HTML, CSS_
