@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+
+body{
+    background-color: #23232B;
+}
+h1{
+    display: block;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding: 0;
+    align-items: center;
+    text-align:center;
+    justify-content: center;
+    line-height: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
