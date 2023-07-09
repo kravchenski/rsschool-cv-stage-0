@@ -3,8 +3,7 @@
 ***
 ### Contacts:
 
-[!['Telegram'](images_md/telegram_logo.png)](https://t.me/kravchenski)[!['Instagram'](images_md/instagram_logo.png)](https://www.instagram.com/maxkravchenski/) [!['Discord'](images_md/discord_logo.png)](https://discordapp.com/users/893778320410419280)[!['Gmail'](images_md/gmail_logo.png)](mailto:krasavamaks64@gmail.com)[!['Phone'](images_md/phone_logo.png)](tel:+375295045955)
-
+[!['Telegram'](images_md/contacts/telegram.png)](https://t.me/kravchenski)[!['Instagram'](images_md/contacts/instagram.png)](https://www.instagram.com/maxkravchenski/) [!['Discord'](images_md/contacts/Discord.png)](https://discordapp.com/users/893778320410419280)[!['Gmail'](images_md/contacts/gmail_white.png)](mailto:krasavamaks64@gmail.com)
 ***
 ### About myself:
 __My name is__ `Max`. I am `16` years old. I am from `Grodno`. My goal is to become a developer👨‍💻 and to work in the `international IT company🏢`. I study at `Gymnasium №2`, with intensive learning of English language. Thanks to my knowledge of English, I can easily read documentation, communicate with another people.
@@ -39,16 +38,16 @@ __With a strong drive for self-improvement and passion for programming🖥️�
 ***
 ### Courses:
 * __JavaScript Epam Kids (completed)__
-![js_certificate](images_md/js_certificate.png)
+![js_certificate](images_md/certificate/js_certificate.png)
 * __Java Epam Kids (completed)__
-![java_certificate](images_md/java_certificate.png)
+![java_certificate](images_md/certificate/java_certificate.png)
 * __Rolling Scopes JavaScript Stage#0 (in progress)__
 
 
 ***
 ### Meetings:
 * __Amazon Web Services User Group 3city Meetup__
-![__AWS meeting__](images_md/aws_meeting.png)
+![__AWS meeting__](images_md/meetings/aws_meeting.png)
 
 ***
 
